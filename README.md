@@ -5,7 +5,7 @@ This project is a Power BI dashboard that analyzes gender, salary distribution, 
  - To identify workforce insights and taking data-driven actions to improve representation, and compensation alignment.
 
 
-🛠 Tools Used
+🛠 **Tools Used**
 - Power BI Desktop
 - DAX Measures for calculating 
 - visualization using charts
@@ -27,13 +27,16 @@ This Power BI dashboard provides an insightful overview of employee bonus, gende
 <img width="424" alt="image" src="https://github.com/user-attachments/assets/e5a963ff-5988-4b25-8f63-af721a3d6592" />
 
 
-✅ Conclusion
-- Palmoria Group is taking deliberate steps to focus on gender-related issues within the organization and its region.
-- gender balancing and inclusion to bring values and transparency. 
+✅ **Conclusion**
+  - 1. Palmoria Group is taking deliberate steps to focus on gender-related issues within the organization and its region.
+ -  2. Gender balancing and inclusion to bring values and transparency. 
 
-📫 Contact
+👩 **About Me**
 
-- Email: kosuaugusta@gmail.com
+Kosu Augusta Ufuoma is zealous and ready to solve problems with data,and organize data for reality result.
+
+📫 **Contact**
+-  Email: kosuaugusta@gmail.com
 - Phone: +2348100055884
 - LinkedIn: http://www.LinkedIn.com/in/augusta-kosu-659727232
 
