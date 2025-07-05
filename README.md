@@ -28,7 +28,8 @@ This Power BI dashboard provides an insightful overview of employee bonus, gende
 
 
 ✅ Conclusion
-- Palmoria Group is taking deliberate steps toward gender balance and inclusion, especially in pay values. However, gaps 
+- Palmoria Group is taking deliberate steps to focus on gender-related issues within the organization and its region.
+- gender balancing and inclusion to bring values and transparency. 
 
 📫 Contact
 
