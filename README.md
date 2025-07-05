@@ -26,7 +26,7 @@ Palmoria Group is taking deliberate steps toward gender balance and inclusion, e
 
 📫 Contact
 
-Email: kosuaugusta@gmail.com
-Phone: +2348100055884
-LinkedIn: http://www.LinkedIn.com/in/augusta-kosu-659727232
+- Email: kosuaugusta@gmail.com
+- Phone: +2348100055884
+- LinkedIn: http://www.LinkedIn.com/in/augusta-kosu-659727232
 
