@@ -19,10 +19,16 @@ This Power BI dashboard provides an insightful overview of employee bonus, gende
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/68479ce3-abbd-4ff5-aaf5-dd6c216f50c0" />
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/e135cff4-369c-4f2e-afe7-aae2cab54dbd" />
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/560bfb3a-5b17-4d3b-aad4-3ed38f0333c9" />
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/0cc8cbed-47a1-4408-b8e6-2e378026ad4a" />
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/41199636-efd3-4f36-bd91-ad10dfe5a664" />
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/12f0094c-1d9b-461e-9c1f-2e71f8ea3e81" />
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/42eef5a0-f742-4be2-8597-ac2fec7f2fce" />
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/1a604438-5941-400e-9656-2ffd676a9fb8" />
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/e5a963ff-5988-4b25-8f63-af721a3d6592" />
 
 
 ✅ Conclusion
-Palmoria Group is taking deliberate steps toward gender balance and inclusion, especially in pay values. However, gaps 
+- Palmoria Group is taking deliberate steps toward gender balance and inclusion, especially in pay values. However, gaps 
 
 📫 Contact
 
